@@ -4,6 +4,6 @@ Homework 1 - Algorithmic Methods for Data Mining and Lab Course
 -----------------------------------------------------------
 
 This repository contains:
-* 'scripts.ipynb'
-* 'stamps/submissions.pdf'
+* `scripts.ipynb`
+* `stamps/submissions.pdf`
 
