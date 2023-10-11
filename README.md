@@ -1,12 +1,8 @@
-# Homework 1 - Algorithmic Methods for Data Mining and Lab Course 
+# Homework 1 - Algorithmic Methods of Data Mining and Laboratory
 
 -----------------------------------------------------------
 
 This repository contains:
-* __`scripts.ipynb`__: a Jupyter Notebook that contains all the python scripts for the exercises. Every code cell is a single exercise. 
-    - The Notebook is divided in two main sections:
-        - **Problem 1** provides all the exercises for the first problem of Homework1 grouped by argument
-        - **Problem 2** contains all the challenges for the second problem of Homework1  
-* __`stamps/submissions.pdf`__: is a PDF with all the screenshots of the submissions that I made on [HackerRank](https://www.hackerrank.com/) 
-
-
+* __`scripts_1.ipynb`__: a Jupyter Notebook that provides the Python scripts for the first problem of Homework-1 grouped by argument. Every code cell is a single exercise. 
+* __`scripts_2.ipynb`__: a Jupyter Notebook that contains the Python scripts for the challenges og the second problem of Homework-1. Every code cell is a single challenge. 
+* __`stamps/submissions.pdf`__: is a PDF with all the screenshots of the submissions that I made on [HackerRank](https://www.hackerrank.com/)
